@@ -1,0 +1,2 @@
+//此文件夹下，去空格神器trim没有内容，而是一个inArray的复制
+//in this folder,the "" is a copy of ""
